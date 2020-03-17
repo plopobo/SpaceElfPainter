@@ -84,5 +84,5 @@
       }
 }( jQuery ))
 
-$('#ActivityDIV').makeSVGcolor('https://srv-file5.gofile.io/download/wcEcY4/GuardianV4.svg')
+$('#ActivityDIV').makeSVGcolor('https://gist.githubusercontent.com/plopobo/321338eb9d3828e39491e38510e25d16/raw/0d7011e5ab3b43ff10c94c84a9bf3188cbd8a49e/GuardianTest.svg')
 $('#swatchesIDbase').loadSwatches('base')
